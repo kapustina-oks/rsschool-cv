@@ -28,13 +28,17 @@
 
 ## Code example
 ## Work Experience
+#### My pet projects:
+* [marvel](https://github.com/kapustina-oks/marvel)
+* [uber](https://github.com/kapustina-oks/uber)
+* [mamon](https://github.com/kapustina-oks/mamon)
+* [accounting](https://github.com/kapustina-oks/accounting-of-employees)
 ## Education
 * Belarusian State Medical University
      + Faculty of Pharmacy
 * Courses
-     + Web Development
-     + JavaScript + React
-     + Modern JavaScript
+     + [Web Development](https://www.udemy.com/course/webdeveloper/)
+     + [JavaScript + React](https://www.udemy.com/course/javascript_full/)
 ## Languages
 * English: B1 (B2 in progress)
 * Russian: Native
