@@ -25,6 +25,6 @@
 ## Work Experience
 ## Education
 * Belarusian State Medical University
-*     + Faculty of Pharmacy
+     + Faculty of Pharmacy
 ## Languages
 
